@@ -10,4 +10,5 @@ function greet(name){
     return "Hello, my love!";
   else(name !="Johnny");
   return "Hello, " + name + "!";
+  
 };
