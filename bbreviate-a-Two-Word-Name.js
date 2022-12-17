@@ -9,9 +9,6 @@ Sam Harris => S.H
 
 patrick feeney => P.F
 
-
-
-
 */
 function abbrevName(name) {
   var nam = name.split(" ");
